@@ -1,1 +1,1 @@
-{"base": "56d9338", "parent": "debian/rolling/rc_genicam_api", "previous": "1987396", "trim": "", "trimbase": ""}
+{"base": "8959b78", "parent": "debian/humble/rc_genicam_api", "previous": "1c96305", "trim": "", "trimbase": ""}
